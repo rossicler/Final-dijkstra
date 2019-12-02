@@ -1,6 +1,6 @@
 # Final_Dijkstra
 
-**Número da Lista**: 5<br>
+**Número da Lista**: 6<br>
 **Conteúdo da Disciplina**: Grafo + Algoritmos ambiciosos<br>
 
 ## Alunos
