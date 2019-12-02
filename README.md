@@ -16,10 +16,10 @@ Demonstrar o funcionamento da estrutura de um grafo utilizando um dos algoritmos
 Adicione 3 ou mais screenshots do projeto em funcionamento.
 
 ## Instalação 
-**Linguagem**: Python3<br>
+**Linguagem**: Python<br>
 
 ## Uso 
-python3 main.py
+python main.py
 
 
 
