@@ -1,44 +1,25 @@
-**!! Atenção: Renomeie o seu repositório para (Tema)_(NomeDoProjeto). !!** 
+# Final_Dijkstra
 
-Temas:
- - Grafos1
- - Grafos2
- - PD
- - D&C
- - Greed
- - Final 
- 
- **!! *Não coloque os nomes dos alunos no título do repositório*. Exemplo de título correto: Grafos2_Labirinto-do-Minotauro !!**
- 
- (Apague essa seção)
-
-# NomedoProjeto
-
-**Número da Lista**: X<br>
-**Conteúdo da Disciplina**: XXXXXXXXXX<br>
+**Número da Lista**: 5<br>
+**Conteúdo da Disciplina**: Grafo + Algoritmos ambiciosos<br>
 
 ## Alunos
 |Matrícula | Aluno |
 | -- | -- |
-| xx/xxxxxx  |  xxxx xxxx xxxxx |
+| 16/0154197  |  Rossicler Júnior |
 | xx/xxxxxx  |  xxxx xxxx xxxxx |
 
 ## Sobre 
-Descreva os objetivos do seu projeto e como ele funciona. 
+Demonstrar o funcionamento da estrutura de um grafo utilizando um dos algoritmos apresentados em sala, que é o algoritmo do Dijkstra, onde encontra o menor caminho em um grafo.
 
 ## Screenshots
 Adicione 3 ou mais screenshots do projeto em funcionamento.
 
 ## Instalação 
-**Linguagem**: xxxxxx<br>
-**Framework**: (caso exista)<br>
-Descreva os pré-requisitos para rodar o seu projeto e os comandos necessários.
+**Linguagem**: Python3<br>
 
 ## Uso 
-Explique como usar seu projeto caso haja algum passo a passo após o comando de execução.
-
-## Outros 
-Quaisquer outras informações sobre seu projeto podem ser descritas abaixo.
+python3 main.py
 
 
 
